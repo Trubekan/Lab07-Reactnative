@@ -1,0 +1,66 @@
+[debug] [2023-05-10T20:24:11.178Z] ----------------------------------------------------------------------
+[debug] [2023-05-10T20:24:11.182Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\trube\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-05-10T20:24:11.183Z] CLI Version:   12.0.0
+[debug] [2023-05-10T20:24:11.184Z] Platform:      win32
+[debug] [2023-05-10T20:24:11.184Z] Node Version:  v18.15.0
+[debug] [2023-05-10T20:24:11.185Z] Time:          Wed May 10 2023 15:24:11 GMT-0500 (hora estándar de Perú)
+[debug] [2023-05-10T20:24:11.185Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-10T20:24:11.197Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-05-10T20:24:11.198Z] > authorizing via signed-in user (enzo.velarde@tecsup.edu.pe)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  F:\Sexto Semestre - TECSUP\Web multiplataformas\proyecto07
+
+[debug] [2023-05-16T04:27:08.841Z] ----------------------------------------------------------------------
+[debug] [2023-05-16T04:27:08.845Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\trube\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-05-16T04:27:08.846Z] CLI Version:   12.0.0
+[debug] [2023-05-16T04:27:08.846Z] Platform:      win32
+[debug] [2023-05-16T04:27:08.847Z] Node Version:  v18.15.0
+[debug] [2023-05-16T04:27:08.848Z] Time:          Mon May 15 2023 23:27:08 GMT-0500 (hora estándar de Perú)
+[debug] [2023-05-16T04:27:08.848Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-16T04:27:08.853Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2023-05-16T04:27:08.912Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-05-16T04:27:08.913Z] > authorizing via signed-in user (enzo.velarde@tecsup.edu.pe)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  F:\Sexto Semestre - TECSUP\Web multiplataformas\proyecto07
+
+[debug] [2023-05-16T04:27:09.513Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-05-16T04:27:09.513Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2023-05-16T23:25:53.234Z] ----------------------------------------------------------------------
+[debug] [2023-05-16T23:25:53.238Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\trube\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-05-16T23:25:53.239Z] CLI Version:   12.0.0
+[debug] [2023-05-16T23:25:53.239Z] Platform:      win32
+[debug] [2023-05-16T23:25:53.240Z] Node Version:  v18.15.0
+[debug] [2023-05-16T23:25:53.250Z] Time:          Tue May 16 2023 18:25:53 GMT-0500 (hora estándar de Perú)
+[debug] [2023-05-16T23:25:53.250Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-16T23:25:53.263Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-05-16T23:25:53.264Z] > authorizing via signed-in user (enzo.velarde@tecsup.edu.pe)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  F:\Sexto Semestre - TECSUP\Web multiplataformas\proyecto07
+
